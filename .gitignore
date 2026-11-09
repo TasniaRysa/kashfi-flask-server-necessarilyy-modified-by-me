@@ -1,0 +1,18 @@
+@"
+venv/
+__pycache__/
+*.pyc
+.env
+photos/
+received_photos/
+Autism emotion recognition dataset/
+"@ | Set-Content .gitignore
+*dataset*/
+
+*Autism emotion recognition dataset*/
+
+/Autism emotion recognition dataset/
+
+/Autism emotion recogition dataset/
+
+/Autism emotion recogition dataset/
